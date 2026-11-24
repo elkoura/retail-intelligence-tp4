@@ -1,0 +1,5 @@
+jeu_donnees,zone,format,nombre_lignes,granularite,usage
+store_sales,Silver,Parquet,667579,Ligne de vente en magasin,Statistiques descriptives
+web_sales,Silver,Parquet,668052,Ligne de vente Web,Calcul des KPI Web
+kpi_multicanal,Gold,Parquet,2,Canal de vente,Comparaison Magasin / Web
+ventes_par_categorie,Gold,Parquet,9,Catégorie de produit en magasin,Analyse des ventes par catégorie

@@ -1,0 +1,4 @@
+kpi,definition,formule,champs_magasin,champs_web,unite,granularite,limite
+Quantité totale vendue,Nombre total d'unités vendues,SUM(quantity),ss_quantity,ws_quantity,unités,canal,Ne correspond pas au nombre de transactions
+Montant net payé,Somme des montants nets payés,SUM(net_paid),ss_net_paid,ws_net_paid,unité monétaire du jeu de données,canal,Ne mesure pas directement la rentabilité
+Bénéfice net total,Somme des bénéfices nets des lignes de vente,SUM(net_profit),ss_net_profit,ws_net_profit,unité monétaire du jeu de données,canal,Dépend de la définition des coûts du jeu source
